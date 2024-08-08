@@ -1182,10 +1182,10 @@ footer .content p span{
 
 /*--------------------- Responsive Styles ---------------------*/
 
-@media (max-width: 1200px) {
+/*------@media (max-width: 1200px) {
     html {
         font-size: 56.25%; /* 1rem = 9px */
-    }
+  /*------  }
 
     header .logo h2 {
         font-size: 2rem;
@@ -1315,8 +1315,8 @@ footer .content p span{
 
 @media (max-width: 480px) {
     html {
-        font-size: 50%; /* 1rem = 8px */
-    }
+        font-size: 50%;----*/  /* 1rem = 8px */ 
+  /*------  }
 
     .home .content h2 {
         font-size: 1.6rem;
@@ -1362,3 +1362,4 @@ footer .content p span{
         font-size: 1.2rem;
     }
 }
+----*/
